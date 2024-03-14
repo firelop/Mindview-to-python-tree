@@ -1,9 +1,9 @@
 # Mindview to python tree
-Ce projet a pour but un arbre mindview en arbre python avec une représentation sous forme de liste ou de dictionnaire qui pourra directement être copié et utilisé dans un programme python.
+Ce projet a pour but de convertir un arbre mindview en arbre python avec une représentation sous forme de liste ou de dictionnaire qui pourra directement être copié et utilisé dans un programme python.
 
 ## Installation
 ### Téléchargement
-Vous pouvez **télécharger le fichier directement [ici](lien github_zip)**.
+Vous pouvez **télécharger le fichier directement [ici](https://codeload.github.com/firelop/Mindview-to-python-tree/zip/refs/heads/main.zip)**.
 Puis **décompressez** le dossier fichier dans le dossier **vide** de votre choix.
 
 ### Installation des dépendances
