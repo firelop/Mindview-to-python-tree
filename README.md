@@ -3,8 +3,8 @@ Ce projet a pour but de convertir un arbre mindview en arbre python avec une rep
 
 ## Installation
 ### Téléchargement
-Vous pouvez **télécharger le fichier directement [ici](https://codeload.github.com/firelop/Mindview-to-python-tree/zip/refs/heads/main.zip)**.
-Puis **décompressez** le dossier fichier dans le dossier **vide** de votre choix.
+Vous pouvez **télécharger le fichier directement [ici](https://codeload.github.com/firelop/Mindview-to-python-tree/zip/refs/heads/main)**.
+Puis **décompressez** le fichier dans le dossier **vide** de votre choix.
 
 ### Installation des dépendances
 Pour installer les dépendances, vous pouvez utiliser **la commande suivante** dans le dossier du projet:
